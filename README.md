@@ -21,7 +21,7 @@ MailMate/
 │── README.md<br>
 <b>⚙️ Installation & Setup</b>
 Clone the repository
-git clone https://github.com/your-username/mailmate.git
+git clone https://github.com/shrutinathe/mailmate.git
 Navigate to the project folder
 cd mailmate
 Install dependencies
